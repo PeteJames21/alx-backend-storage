@@ -38,3 +38,11 @@ Write a script that adds a new attribute to a document in the collection school:
 ## 7-delete
 
 Write a script that deletes all documents with name="Holberton school" in the collection `school`
+
+## 8-all.py
+
+Write a Python function that lists all documents in a collection.
+
+- Prototype: `def list_all(mongo_collection):`
+- Return an empty list if no document in the collection
+- mongo_collection will be the pymongo `collection` object
