@@ -18,3 +18,7 @@ Write a script that inserts a document in the collection `school`:
 ## 3-all
 
 Write a script that lists all documents in the collection school. The database name will be passed as option of mongosh command
+
+## 4-match
+
+Write a script that lists all documents with name="Holberton school" in the collection school. The database name will be passed as an option to the mongosh command
